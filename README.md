@@ -49,6 +49,22 @@ The objective was to determine how title psychology, market conditions, educatio
 
 ---
 
+## Key Visualizations
+
+### Psychological Triggers In Elite Content
+
+![Psychological Triggers](psychological_triggers_elite_content.png)
+
+### Market Volatility Drives Audience Attention
+
+![Volatility](market_volatility_drives_audience_attention.png)
+
+### Psychological Trigger Distribution Across Performance Levels
+
+![Distribution](psychological_trigger_distribution_across_performance_levels.png)
+
+---
+
 ## Deliverables
 
 * Final Strategy Report (PDF)
